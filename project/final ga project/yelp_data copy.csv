@@ -1,0 +1,81 @@
+is_claimed,rating,review_count,name,categories,tagcategories,subcategories,tagsubcategories,id,neighborhoods
+true,4.5,42,Barbarossa Lounge,American (New),newamerican,Cocktail Bars,cocktailbars,barbarossa-lounge-san-francisco,Financial District
+true,3.5,19,Soma Pizza,Pizza,pizza,Italian,italian,soma-pizza-san-francisco-4,SoMa
+true,4,27,Little Gem,American (New),newamerican,,,little-gem-san-francisco,Hayes Valley
+true,4.5,319,Hogwash,Gastropubs,gastropubs,Beer Bar,beerbar,hogwash-san-francisco,Union Square
+false,4.5,3669,The House,Asian Fusion,asianfusion,,,the-house-san-francisco,North Beach/Telegraph Hill
+true,4,1749,Marlowe,American (New),newamerican,Brasseries,brasseries,marlowe-san-francisco-2,SoMa
+true,4.5,1676,The Codmother Fish and Chips,British,british,Fish & Chips,fishnchips,the-codmother-fish-and-chips-san-francisco,North Beach/Telegraph Hill
+true,4.5,201,The Chairman,Asian Fusion,asianfusion,Chinese,chinese,the-chairman-san-francisco-2,Tenderloin
+true,4,1981,Fog Harbor Fish House,Seafood,seafood,,,fog-harbor-fish-house-san-francisco-2,North Beach/Telegraph Hill
+true,4,1371,SO,Asian Fusion,asianfusion,Chinese,chinese,so-san-francisco-4,SoMa
+false,4,509,Rickybobby,American (New),newamerican,,,rickybobby-san-francisco,Lower Haight
+true,4.5,750,La Fusión,Latin American,latin,,,la-fusión-san-francisco-2,Financial District
+true,4.5,112,The Spice Jar,Asian Fusion,asianfusion,,,the-spice-jar-san-francisco,Mission
+false,4.5,388,Hopwater Distribution,Pubs,pubs,American (Traditional),tradamerican,hopwater-distribution-san-francisco,Nob Hill
+true,4.5,1550,Chez Maman,French,french,Burgers,burgers,chez-maman-san-francisco-9,Potrero Hill
+true,4.5,74,Lord George,Cocktail Bars,cocktailbars,Gastropubs,gastropubs,lord-george-san-francisco,SoMa
+true,4.5,407,The Italian Homemade Company,Grocery,grocery,Italian,italian,the-italian-homemade-company-san-francisco-4,Russian Hill
+true,4.5,4372,Gary Danko,American (New),newamerican,,,gary-danko-san-francisco,Russian Hill
+true,4.5,143,Rove Kitchen,American (New),newamerican,Burgers,burgers,rove-kitchen-san-francisco,Lower Nob Hill
+true,4.5,1595,State Bird Provisions,Tapas/Small Plates,tapasmallplates,American (New),newamerican,state-bird-provisions-san-francisco,Western Addition
+true,4.5,48,Piccolo Forno,Pizza,pizza,Italian,italian,piccolo-forno-san-francisco,Russian Hill
+true,4.5,864,Garaje,Mexican,mexican,Burgers,burgers,garaje-san-francisco,SoMa
+true,4.5,1737,HRD,Asian Fusion,asianfusion,,,hrd-san-francisco-2,SoMa
+true,4.5,557,Stones Throw,American (New),newamerican,,,stones-throw-san-francisco-2,Russian Hill
+true,4.5,429,The Flying Falafel,Falafel,falafel,Vegan,vegan,the-flying-falafel-san-francisco-3,SoMa
+true,4.5,355,Causwells,American (New),newamerican,,,causwells-san-francisco-5,Marina/Cow Hollow
+true,4,4159,Nopa,American (New),newamerican,Modern European,modern_european,nopa-san-francisco,Alamo Square
+true,4.5,6832,Ike's Place,Sandwiches,sandwiches,,,ikes-place-san-francisco,Castro
+true,4.5,84,PianoFight,Bars,bars,American (New),newamerican,pianofight-san-francisco,Tenderloin
+true,4,1342,Loló,Tapas/Small Plates,tapasmallplates,Tapas Bars,tapas,loló-san-francisco-4,Mission
+true,4,1495,Kitchen Story,Breakfast & Brunch,breakfast_brunch,Asian Fusion,asianfusion,kitchen-story-san-francisco,Castro
+true,4.5,218,Rusty's Southern,Southern,southern,,,rustys-southern-san-francisco,Tenderloin
+true,4,1216,Hops & Hominy,Southern,southern,American (New),newamerican,hops-and-hominy-san-francisco,Union Square
+true,4.5,467,Bite,Delis,delis,Sandwiches,sandwiches,bite-san-francisco,Lower Nob Hill
+true,4,693,Fat Angel,Wine Bars,wine_bars,Gastropubs,gastropubs,fat-angel-san-francisco,Western Addition
+true,4,867,Nob Hill Cafe,Italian,italian,"Beer, Wine & Spirits",beer_and_wine,nob-hill-cafe-san-francisco,Nob Hill
+false,4.5,41,Mom's Bun Mi,Vietnamese,vietnamese,Sandwiches,sandwiches,moms-bun-mi-san-francisco,Tenderloin
+true,4,2244,Tommy's Joynt,American (Traditional),tradamerican,Bars,bars,tommys-joynt-san-francisco,Fillmore
+true,4,2494,Zero Zero,Pizza,pizza,Italian,italian,zero-zero-san-francisco,SoMa
+true,4.5,3351,Hog Island Oyster Co,Seafood,seafood,Seafood Markets,seafoodmarkets,hog-island-oyster-co-san-francisco,Embarcadero
+true,4,1239,Barbacco,Italian,italian,1442038483,4159551919,barbacco-san-francisco,Financial District
+false,4.5,258,Street Taco,Mexican,mexican,,4155254435,street-taco-san-francisco,The Haight
+true,4.5,207,Paprika,Czech,czech,,4153751477,paprika-san-francisco,Mission
+true,4,1718,Sweet Maple,American (Traditional),tradamerican,1452258019,4156559169,sweet-maple-san-francisco,Lower Pacific Heights
+false,4,415,Sauce,American (New),newamerican,1453702914,4153978800,sauce-san-francisco-3,Financial District
+true,3.5,763,Citizen's Band,American (New),newamerican,1442073548,4155564901,citizens-band-san-francisco,SoMa
+true,4.5,224,Bacon Bacon,Breakfast & Brunch,breakfast_brunch,,4155718516,bacon-bacon-san-francisco-5,Ashbury Heights
+true,4,2821,Tropisueño,Mexican,mexican,1450976404,4152430299,tropisueño-san-francisco-3,Financial District
+true,4.5,650,Liholiho Yacht Club,Hawaiian,hawaiian,1442228646,4154405446,liholiho-yacht-club-san-francisco-2,Lower Nob Hill
+true,4,2709,Suppenküche,German,german,1441945861,4152529289,suppenküche-san-francisco-2,Hayes Valley
+true,4,1619,Woodhouse Fish Co.,Seafood,seafood,1442031296,4154372722,woodhouse-fish-co-san-francisco,Lower Pacific Heights
+true,4,1209,Serpentine,American (New),newamerican,1441989645,4152522000,serpentine-san-francisco,Dogpatch
+true,4.5,163,Myriad Gastro Pub,Gastropubs,gastropubs,,4155254335,myriad-gastro-pub-san-francisco,Mission
+true,4,2726,Beretta,Italian,italian,1442004509,4156951199,beretta-san-francisco,Mission
+true,4,1276,Firefly Restaurant,American (New),newamerican,1453448375,4158217652,firefly-restaurant-san-francisco-4,Noe Valley
+true,4,1443,Little Skillet,Soul Food,soulfood,1453471688,4157772777,little-skillet-san-francisco-2,SoMa
+true,4,88,Sam Wo Restaurant,Chinese,chinese,1451365839,4159898898,sam-wo-restaurant-san-francisco-3,Chinatown
+true,5,26,Fayala,Mediterranean,mediterranean,1452545211,4157570444,fayala-san-francisco-2,Financial District
+true,4.5,145,Red Hill Station,Seafood,seafood,1442203308,4157570480,red-hill-station-san-francisco,Bernal Heights
+true,5,24,Birba,Wine Bars,wine_bars,1442231623,4155497612,birba-san-francisco,Hayes Valley
+true,4,653,Mikkeller Bar,Gastropubs,gastropubs,1442646656,4159840279,mikkeller-bar-san-francisco,Union Square
+true,4,1476,Plow,Breakfast & Brunch,breakfast_brunch,1442077956,4158217569,plow-san-francisco,Potrero Hill
+true,4.5,234,Cafe du Soleil,French,french,,4156996154,cafe-du-soleil-san-francisco-4,SoMa
+true,4,3189,Zazie,Breakfast & Brunch,breakfast_brunch,1441957077,4155645332,zazie-san-francisco,Cole Valley
+true,4,346,Brenda's Meat & Three,Soul Food,soulfood,1442229383,4159268657,brendas-meat-and-three-san-francisco-3,NoPa
+true,5,116,Little Heaven Deli,Creperies,creperies,1451468231,4158241293,little-heaven-deli-san-francisco,Mission
+true,4,1105,Skool,Seafood,seafood,1450082771,4152558800,skool-san-francisco,SoMa
+true,4.5,779,Leopold's,Austrian,austrian,1442083794,4154742000,leopolds-san-francisco-2,Russian Hill
+true,4,140,Octavia,American (New),newamerican,1442231477,4154087507,octavia-san-francisco,Lower Pacific Heights
+true,4,471,Souvla,Greek,greek,1442203734,4154005458,souvla-san-francisco,Hayes Valley
+true,4,1063,Coqueta,Spanish,spanish,1442086362,4157048866,coqueta-san-francisco,Embarcadero
+true,4,1212,The Little Chihuahua,Mexican,mexican,1442011132,4152558225,the-little-chihuahua-san-francisco,Lower Haight
+true,4,3682,El Farolito,Mexican,mexican,1441946771,4158247877,el-farolito-san-francisco-2,Mission
+false,4.5,244,Eight AM,American (New),newamerican,,4152924888,eight-am-san-francisco,Russian Hill
+false,4,836,Cordon Bleu,Vietnamese,vietnamese,1441956231,4156735637,cordon-bleu-san-francisco,Nob Hill
+true,4,1428,Nopalito,Mexican,mexican,,4154370303,nopalito-san-francisco,Lower Haight
+true,4.5,71,No No Burger,Burgers,burgers,,4157109280,no-no-burger-san-francisco,SoMa
+true,4,399,Sweet Woodruff,American (New),newamerican,1453702972,4152929090,sweet-woodruff-san-francisco,Lower Nob Hill
+true,4,552,Street Restaurant,American (New),newamerican,,4157751055,street-restaurant-san-francisco,Russian Hill
+true,4,108,Delarosa,Pizza,pizza,1449200505,4158727363,delarosa-san-francisco-3,Union Square
