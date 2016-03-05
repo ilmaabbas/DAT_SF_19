@@ -73,12 +73,16 @@ Monday | Wednesday
 =======
 =======
 2/15: **No Class** (President's Day) | 2/17: [Database Technologies](#class-18-database-technologies--sql) <br>**Project Second Draft Due (Optional)**
+<<<<<<< HEAD
 >>>>>>> bbd24e208e61ed2cd4fa9fd7811d1b37d42aec2c
 2/22: Advanced Topic or Guest Speaker | 2/24: Course Review & Where to Go from Here |
 >>>>>>> 947613ecc9d6df29273209864f6f27d3b4816899
+=======
+2/22: [Pursuing DS Roles & Imbalanced Classes](#class-19-pursuing-data-science-roles--imbalanced-classes) | 2/24: Course Review & Where to Go from Here |
+>>>>>>> 940f0b6eb22a86f562eb33ecfe8e3a2537ae4e33
 2/29: **Project Presentations & Project Due** | 3/2: **Project Presentations & Project Due**
 
-_syllabus last updated: 02/16/2016_
+_syllabus last updated: 02/22/2016_
 
 
 
@@ -149,7 +153,7 @@ _syllabus last updated: 02/16/2016_
 ### Class 4: Intro to Machine Learning & Classification with KNN
 
 * Intro to Machine Learning ([slides](slides/04_intro_ml_knn.pdf))
-* Lab: KNN classification with Scikit-learn ([notebook](labs/05_knn_sklearn.ipynb))
+* Lab: KNN classification with Scikit-learn ([notebook](labs/04_knn_sklearn.ipynb))
 
 **ML Resources**:
 * For a more formal, in-depth introduction to machine learning, read section 2.1 (14 pages) of Hastie and Tibshirani's excellent book, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). (It's a free PDF download!)
@@ -401,9 +405,17 @@ Thanks to Dave Yerrington for leading this session!
 
 -----
 
-### Class 19: Advanced Topic or Guest Speaker
+### Class 19: Pursuing Data Science Roles & Imbalanced Classes
 
+* Pursuing data science roles, Rocking data science interviews, and related Q&A - Dave Yerrington
+* Advanced Topic: Imbalanced Classes ([slides](slides/19-imbalanced-classes.pdf))
+* Lab: Homework 4 solution walkthrough and Q&A
 
+**Additional Resources**
+* [This post by Jason Brownlee](http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/) provides an easy-to-understand overview of options for handling imbalanced classes.
+* [This answer on Quora](https://www.quora.com/In-classification-how-do-you-handle-an-unbalanced-training-set) goes into more detail.
+* If you want to go really deep, read this extensive academic paper, [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf).
+* Paper on using [Random Forests with Imbalanced Data](http://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf).
 
 -----
 
